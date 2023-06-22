@@ -1,3 +1,4 @@
+#Thanks for Bonnie, Butter, and Labi
 data = []
 filename = 'input.txt'
 filename_o = 'output.txt'
